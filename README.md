@@ -1,4 +1,4 @@
-Here's a complete `README.md` file tailored for your repository, describing what the script does and how to use it effectively:
+
 
 ---
 
@@ -124,4 +124,4 @@ MIT License – feel free to use and adapt.
 
 ---
 
-Would you like a copy of this `README.md` as a downloadable file?
+
